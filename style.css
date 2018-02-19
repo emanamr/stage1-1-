@@ -26,7 +26,7 @@ font-size: 40px;
   transition:transform 1s ease-in;*/
 }
 input{
-  width: 50%;
+  width: 80%;
   height: 30px;
   border-width:2px;
   border-radius: 15px;
@@ -73,6 +73,11 @@ font-weight:10px;}
   align-items: center;
   padding-left: 10%;
 }
+table{
+  width:100%
+}
+
+
 button{width: 80px;
 height: 30px;
 background-color:#660000;
